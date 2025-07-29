@@ -1,18 +1,4 @@
-Got it\! With `NexusOccitech/NexusAI-Core` now created and all the details about your project, I can definitely craft a comprehensive and engaging `README.md` for you.
-
-This `README.md` will serve as the main entry point for anyone visiting your GitHub repository, whether they are potential contributors, partners, or simply curious about Nexus AI. It will integrate information from all your provided documents and media, presenting a compelling overview.
-
-Here's the proposed content for your `README.md` file:
-
------
-
-# NexusAI-Core : Tissez le Futur Connecté – L'Intelligence Ambiante Sécurisée
-
-[](https://opensource.org/licenses/Apache-2.0)
-[](https://www.google.com/search?q=https://github.com/NexusOccitech/NexusAI-Core/graphs/contributors)
-[](https://www.google.com/search?q=https://github.com/NexusOccitech/NexusAI-Core/pulse)
-
-## ✨ Bienvenue dans NexusAI-Core \!
+✨ Bienvenue dans NexusAI-Core \!
 
 NexusAI-Core est le cœur open-source de notre vision révolutionnaire pour les Smart Cities et l'expérience humaine connectée. Nous fusionnons l'intelligence artificielle de pointe avec des wearables IoT pour créer un écosystème d'**intelligence ambiante sécurisée**, où chaque appareil est un nœud intelligent et autonome au sein d'un graphe de confiance.
 
